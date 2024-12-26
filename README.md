@@ -1,8 +1,8 @@
 # planilha-inteligente-dashboard
 
-Este projeto foi feito no Excel: base de dados, tabelas para manipulá-las e na IDE Visual Studio Code para visualizar a tela do Dashboard implementei com a linguagem HTML e CSS [^1]
+Este projeto foi feito no Excel: base de dados, tabelas para manipulá-las e na IDE Visual Studio Code para visualizar a tela do Dashboard implementei com a linguagem HTML e CSS.
 
-projeto aindda em fase de desenvolvimento (Têm pontos a ser melhorados - "motivo técnico").
+Projeto em desenvolvimento.
 
 ## 🤖 Tecnologias Utilizadas
 
